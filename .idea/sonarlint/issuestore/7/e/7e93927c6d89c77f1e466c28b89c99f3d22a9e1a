@@ -1,8 +1,8 @@
 
-z
+ 
 java:S1104
-"XMake storeManager a static final constant or non-public and provide accessors if needed.(•ùñ°şÿÿÿÿ8’–Ì›…2
-s
-java:S1104"QMake users a static final constant or non-public and provide accessors if needed.(÷ÖåÅşÿÿÿÿ8“–Ì›…2
-r	java:S106"+Replace this use of System.out by a logger.(üÈÖ¢ÿÿÿÿÿ8—óı­‚2J$e369ec9a-ff82-4f9b-89af-d46edf72b330
-m	java:S106"+Replace this use of System.out by a logger.(Ôàä8—óı­‚2J$25f9ece6-ca2b-4689-a559-242c6da21965
+"XMake storeManager a static final constant or non-public and provide accessors if needed.(•ùñ°şÿÿÿÿ8’–Ì›…2J$d4bb72ef-68f0-4a2b-b9c7-aeaa4ee980eb
+™
+java:S1104"QMake users a static final constant or non-public and provide accessors if needed.(÷ÖåÅşÿÿÿÿ8“–Ì›…2J$b0b0eb35-6d51-4f30-b056-50da39e455ed
+r	java:S106"+Replace this use of System.out by a logger.(üÈÖ¢ÿÿÿÿÿ8—óı­‚2J$014bd7cb-4801-455d-be23-5366689aabb2
+m	java:S106"+Replace this use of System.out by a logger.(Ôàä8—óı­‚2J$eaa92996-a73f-4b01-98e0-df30814c3c0e

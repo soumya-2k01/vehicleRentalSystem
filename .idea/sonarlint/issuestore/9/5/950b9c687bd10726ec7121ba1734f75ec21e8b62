@@ -1,19 +1,19 @@
 
 E
-java:S54115"(Use a primitive boolean expression here.(’üà8£ù¼Šƒ2
+java:S54115"(Use a primitive boolean expression here.(’üà8¡ÔïŸ…2
 E
-java:S54116"(Use a primitive boolean expression here.(Ûâ¤¥8£ù¼Šƒ2
-b	java:S1125"FDefine and throw a dedicated exception instead of using a generic one.(’üà8¤ù¼Šƒ2
-b	java:S112A"FDefine and throw a dedicated exception instead of using a generic one.(è†…ä8¤ù¼Šƒ2
-b	java:S1124"FDefine and throw a dedicated exception instead of using a generic one.(‘Ñâ8¤ù¼Šƒ2
-g	java:S112E"FDefine and throw a dedicated exception instead of using a generic one.(§“Ëÿÿÿÿÿ8¤ù¼Šƒ2
-b	java:S112J"FDefine and throw a dedicated exception instead of using a generic one.(ƒÚÌñ8¤ù¼Šƒ2
-g	java:S112D"FDefine and throw a dedicated exception instead of using a generic one.(«ÙÇ¨øÿÿÿÿ8¤ù¼Šƒ2
-g	java:S112O"FDefine and throw a dedicated exception instead of using a generic one.(ã¿½Éøÿÿÿÿ8¤ù¼Šƒ2
-g	java:S112Q"FDefine and throw a dedicated exception instead of using a generic one.(Å¿•ıÿÿÿÿ8¤ù¼Šƒ2
-g	java:S112M"FDefine and throw a dedicated exception instead of using a generic one.(úÒÌ¸ùÿÿÿÿ8¤ù¼Šƒ2
-G	java:S106?"+Replace this use of System.out by a logger.(“¾ãí8¨ù¼Šƒ2
-G	java:S106H"+Replace this use of System.out by a logger.(§™¯8©ù¼Šƒ2
-L	java:S106W"+Replace this use of System.out by a logger.(çãêŸúÿÿÿÿ8©ù¼Šƒ2
+java:S54116"(Use a primitive boolean expression here.(Ûâ¤¥8¡ÔïŸ…2
+ˆ	java:S1125"FDefine and throw a dedicated exception instead of using a generic one.(’üà8¤ù¼Šƒ2J$96b30435-6974-4f93-b5e7-e13cdfca5b29
+ˆ	java:S112A"FDefine and throw a dedicated exception instead of using a generic one.(è†…ä8¤ù¼Šƒ2J$f1a5386d-5569-4e84-a7de-15654efbc580
+ˆ	java:S1124"FDefine and throw a dedicated exception instead of using a generic one.(‘Ñâ8¤ù¼Šƒ2J$8f9abe46-94c1-4452-bcd3-5b1ed959d46b
+	java:S112E"FDefine and throw a dedicated exception instead of using a generic one.(§“Ëÿÿÿÿÿ8¤ù¼Šƒ2J$73c2281e-c4c6-46cb-b67a-aea3f55d0e16
+ˆ	java:S112J"FDefine and throw a dedicated exception instead of using a generic one.(ƒÚÌñ8¤ù¼Šƒ2J$72255cc4-e681-41ab-bb72-6a42c9fe10cb
+	java:S112D"FDefine and throw a dedicated exception instead of using a generic one.(«ÙÇ¨øÿÿÿÿ8¤ù¼Šƒ2J$6a4d5f88-ce42-4040-8724-6cf5244c2878
+g	java:S112O"FDefine and throw a dedicated exception instead of using a generic one.(ã¿½Éøÿÿÿÿ8¥ÔïŸ…2
+g	java:S112Q"FDefine and throw a dedicated exception instead of using a generic one.(Å¿•ıÿÿÿÿ8¥ÔïŸ…2
+g	java:S112M"FDefine and throw a dedicated exception instead of using a generic one.(úÒÌ¸ùÿÿÿÿ8¥ÔïŸ…2
+m	java:S106?"+Replace this use of System.out by a logger.(“¾ãí8¨ù¼Šƒ2J$50156acb-1469-450b-bfc1-7b69ba1439f3
+m	java:S106H"+Replace this use of System.out by a logger.(§™¯8©ù¼Šƒ2J$21800dbe-caa1-44d7-99b4-422d2145133e
+r	java:S106W"+Replace this use of System.out by a logger.(çãêŸúÿÿÿÿ8©ù¼Šƒ2J$a90e5443-fba2-4683-b137-990fb28b1018
 b
-java:S1128"ERemove this unused import 'org.rental.payment.HourlyPricingStrategy'.(åÃ´È8ªù¼Šƒ2
+java:S1128"ERemove this unused import 'org.rental.payment.HourlyPricingStrategy'.(åÃ´È8¹ÔïŸ…2
